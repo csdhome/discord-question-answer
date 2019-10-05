@@ -10,7 +10,7 @@
         },
         {
             "question": "ccc",
-            "answer": "1: Check your keybinding in options for \"toggle console\", you might need to assign a different key\n\ta.*(for English keyboards it's typically the Tilde/Tick key `)*\n2: Exit the menu & open the console with the assigned key\n3: Type ccc and hit enter. Coordinates will be saved into your clipboard.\n3: Then tab out to discord and paste (ctrl + v) into support."
+            "answer": "The ccc console command adds your current coordinates in Atlas to your clipboard, here's how to use it:\n1: Open the console with the Tilde/Tick key - the button below [Esc]\n\ta.*(For other keyboard layouts you might need to assign a different key, check your keybinding in options for 'toggle console')*\n2: Exit the menu and open the console with the assigned key\n3: Type ccc and hit enter. Coordinates will be saved into your clipboard.\n4: Then tab out to discord and paste (ctrl + v) into support."
         },
         {
             "question": "mod collection",

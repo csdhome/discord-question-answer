@@ -1,0 +1,1 @@
+powershell "Get-Content .\run_chb.ps1 | PowerShell.exe -noprofile"
