@@ -2,16 +2,19 @@
     "questions": [
         {
             "question":"Where are the markets",
-            "answer": "B1, etc.."
+            "answer": "B1, E3, C1, D6 (More to come)"
         },{
             "question":"Who wrote this bot",
             "answer": "Darc"
         },{
             "question":"ccc",
-            "answer": "In game, Hit the Tilde/Tick key ` (The key to the left of the number 1 and below esc) to open the console, then type ccc and hit enter.  Then tab out to discord and paste (ctrl + v) into support."
+            "answer": "In game do the following steps:\n1: Hit the Tilde/Tick key ` (The key to the left of the number 1 and below esc) to open the console\n2: Type ccc and hit enter.\n3: Then tab out to discord and paste (ctrl + v) into support."
         },{
             "question":"mod collection",
             "answer": "https://steamcommunity.com/sharedfiles/filedetails/?id=1764390852"
+        },{
+            "question":"admin market locations",
+            "answer": "cheat TP B1 -126513 -305931 433\ncheat TP E3 -348523 -27412 399\ncheat TP C1 439219 164169 3448\ncheat TP D6 115707 -7327 398"
         }
     ]
 }
