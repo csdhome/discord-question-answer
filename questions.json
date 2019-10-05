@@ -6,6 +6,12 @@
         },{
             "question":"Who wrote this bot",
             "answer": "Darc#3184"
+        },{
+            "question":"ccc",
+            "answer": "In game, Hit Tab to open the console, then type ccc and hit enter.  Then tab out to discord and paste (ctrl + v) into support."
+        },{
+            "question":"mod collection",
+            "answer": "https://steamcommunity.com/sharedfiles/filedetails/?id=1764390852"
         }
     ]
 }
